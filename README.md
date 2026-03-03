@@ -4,7 +4,7 @@
 
 1.app增加http代理功能，可分享vpn网络
 
- 说明：须安装build/yilianvpntunnel-release.apk, 并启动(要先启动易连vpn)
+ 说明：先安装build/yilianvpntunnel-release.apk, 启动两个软件的http代理，上网设备代理填yilianvpntunne的配置
  
 2.http代理jvm优化，解决相应bug
 
