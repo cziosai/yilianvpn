@@ -8,6 +8,8 @@
  
 2.http代理jvm优化，解决相应bug
 
+3.发现socket资源管理bug
+
 2026.02
 
 1.修复内存管理bug(task多容器同步移除)
